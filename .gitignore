@@ -1,0 +1,26 @@
+# Database / Environment configuration
+.env
+.env.local
+.env.*.local
+
+# OS files
+Thumbs.db
+db.db
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.project
+.settings/
+.buildpath
+
+# Log files
+*.log
+logs/
+error_log
