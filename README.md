@@ -58,7 +58,7 @@ c:\xampp\htdocs\root\
 4. **Run Application:** Start Apache and MySQL via the XAMPP Control Panel, then access the app in your browser:
    ```text
    http://localhost/root/pages/index.php
-   ```
+
 
 ---
 
